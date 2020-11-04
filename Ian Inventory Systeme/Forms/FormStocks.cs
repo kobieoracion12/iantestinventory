@@ -19,7 +19,7 @@ namespace Ian_Inventory_Systeme.Forms
             Startup();
         }
 
-        MySqlConnection connection = new MySqlConnection("server=127.0.0.1;user id=ianinventory;persistsecurityinfo=True;database=iantestinventory; password='kobieoracion123';");
+        MySqlConnection connection = new MySqlConnection("server=127.0.0.1;user = Nefarry1;persistsecurityinfo=True;database=iantestinventory; password='aislife22';");
 
         private void Startup()
         {

@@ -38,6 +38,7 @@
             this.rcptQty = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.panel2 = new System.Windows.Forms.Panel();
             this.cofPrice = new System.Windows.Forms.Panel();
+            this.cofTotalAll = new System.Windows.Forms.TextBox();
             this.btnNewRcpt = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.btnSalesRefresh = new System.Windows.Forms.Button();
@@ -64,7 +65,6 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.prodAddNo = new System.Windows.Forms.TextBox();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.cofTotalAll = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.cofPrice.SuspendLayout();
@@ -160,6 +160,18 @@
             this.cofPrice.Name = "cofPrice";
             this.cofPrice.Size = new System.Drawing.Size(692, 631);
             this.cofPrice.TabIndex = 20;
+            // 
+            // cofTotalAll
+            // 
+            this.cofTotalAll.AcceptsReturn = true;
+            this.cofTotalAll.BackColor = System.Drawing.Color.White;
+            this.cofTotalAll.Enabled = false;
+            this.cofTotalAll.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cofTotalAll.Location = new System.Drawing.Point(56, 536);
+            this.cofTotalAll.Multiline = true;
+            this.cofTotalAll.Name = "cofTotalAll";
+            this.cofTotalAll.Size = new System.Drawing.Size(580, 64);
+            this.cofTotalAll.TabIndex = 24;
             // 
             // btnNewRcpt
             // 
@@ -455,18 +467,6 @@
             this.prodAddNo.Name = "prodAddNo";
             this.prodAddNo.Size = new System.Drawing.Size(580, 64);
             this.prodAddNo.TabIndex = 1;
-            // 
-            // cofTotalAll
-            // 
-            this.cofTotalAll.AcceptsReturn = true;
-            this.cofTotalAll.BackColor = System.Drawing.Color.White;
-            this.cofTotalAll.Enabled = false;
-            this.cofTotalAll.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cofTotalAll.Location = new System.Drawing.Point(56, 536);
-            this.cofTotalAll.Multiline = true;
-            this.cofTotalAll.Name = "cofTotalAll";
-            this.cofTotalAll.Size = new System.Drawing.Size(580, 64);
-            this.cofTotalAll.TabIndex = 24;
             // 
             // CheckOutForm
             // 

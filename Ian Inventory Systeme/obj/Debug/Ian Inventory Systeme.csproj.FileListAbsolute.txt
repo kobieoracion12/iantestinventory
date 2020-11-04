@@ -34,6 +34,62 @@ C:\Users\Kobie\documents\visual studio 2015\Projects\Ian Inventory Systeme\Ian I
 C:\Users\Kobie\documents\visual studio 2015\Projects\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\zxing.xml
 C:\Users\Kobie\documents\visual studio 2015\Projects\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\zxing.presentation.xml
 C:\Users\Kobie\documents\visual studio 2015\Projects\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian_Inventory_Systeme.Forms.Inventory.resources
-C:\Users\Kobie\Documents\Visual Studio 2015\Projects\iantestinventory\Ian Inventory Systeme\bin\Debug\Ian Inventory Systeme.exe.config
-C:\Users\Kobie\Documents\Visual Studio 2015\Projects\iantestinventory\Ian Inventory Systeme\obj\Debug\Ian Inventory Systeme.exe
-C:\Users\Kobie\Documents\Visual Studio 2015\Projects\iantestinventory\Ian Inventory Systeme\obj\Debug\Ian Inventory Systeme.pdb
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\Ian Inventory Systeme.exe.config
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian Inventory Systeme.exe
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian Inventory Systeme.pdb
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\Ian Inventory Systeme.exe
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\Ian Inventory Systeme.pdb
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\AForge.dll
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\AForge.Video.dll
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\zxing.dll
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\zxing.presentation.dll
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\System.Buffers.dll
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\AForge.xml
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\AForge.Video.xml
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\MySql.Data.xml
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\zxing.xml
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\zxing.presentation.xml
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian Inventory Systeme.csprojResolveAssemblyReference.cache
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian Inventory Systeme.csproj.Ian Inventory Systeme.exe.config
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian_Inventory_Systeme.Form1.resources
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian_Inventory_Systeme.Forms.CheckOutForm.resources
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian_Inventory_Systeme.Forms.FormDashboard.resources
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian_Inventory_Systeme.Forms.Inventory.resources
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian_Inventory_Systeme.Forms.FormStocks.resources
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian_Inventory_Systeme.Properties.Resources.resources
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian Inventory Systeme.csproj.GenerateResource.Cache
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\Ian Inventory Systeme.exe.config
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian Inventory Systeme.exe
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian Inventory Systeme.pdb
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\Ian Inventory Systeme.exe
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\Ian Inventory Systeme.pdb
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\AForge.dll
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\AForge.Video.dll
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\zxing.dll
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\zxing.presentation.dll
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\System.Buffers.dll
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\AForge.xml
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\AForge.Video.xml
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\MySql.Data.xml
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\zxing.xml
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\zxing.presentation.xml
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian Inventory Systeme.csprojResolveAssemblyReference.cache
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian Inventory Systeme.csproj.Ian Inventory Systeme.exe.config
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian_Inventory_Systeme.Form1.resources
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian_Inventory_Systeme.Forms.CheckOutForm.resources
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian_Inventory_Systeme.Forms.FormDashboard.resources
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian_Inventory_Systeme.Forms.Inventory.resources
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian_Inventory_Systeme.Forms.FormStocks.resources
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian_Inventory_Systeme.Properties.Resources.resources
+C:\Users\a i r a h\Desktop\Program Files\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian Inventory Systeme.csproj.GenerateResource.Cache
+C:\Users\a i r a h\Desktop\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian_Inventory_Systeme.LogInForm.resources

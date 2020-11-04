@@ -63,7 +63,7 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel2.Location = new System.Drawing.Point(0, 74);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1142, 681);
+            this.panel2.Size = new System.Drawing.Size(1142, 675);
             this.panel2.TabIndex = 1;
             // 
             // tbSales
@@ -75,7 +75,7 @@
             this.tbSales.Name = "tbSales";
             this.tbSales.Padding = new System.Drawing.Point(50, 3);
             this.tbSales.SelectedIndex = 0;
-            this.tbSales.Size = new System.Drawing.Size(1142, 681);
+            this.tbSales.Size = new System.Drawing.Size(1142, 675);
             this.tbSales.TabIndex = 0;
             // 
             // tabPageSales
@@ -84,7 +84,7 @@
             this.tabPageSales.Location = new System.Drawing.Point(4, 34);
             this.tabPageSales.Name = "tabPageSales";
             this.tabPageSales.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPageSales.Size = new System.Drawing.Size(1134, 643);
+            this.tabPageSales.Size = new System.Drawing.Size(1134, 637);
             this.tabPageSales.TabIndex = 0;
             this.tabPageSales.Text = "Sales";
             this.tabPageSales.UseVisualStyleBackColor = true;
@@ -104,7 +104,7 @@
             this.listViewSales.GridLines = true;
             this.listViewSales.Location = new System.Drawing.Point(3, 3);
             this.listViewSales.Name = "listViewSales";
-            this.listViewSales.Size = new System.Drawing.Size(1128, 637);
+            this.listViewSales.Size = new System.Drawing.Size(1128, 631);
             this.listViewSales.TabIndex = 1;
             this.listViewSales.UseCompatibleStateImageBehavior = false;
             this.listViewSales.View = System.Windows.Forms.View.Details;
@@ -149,7 +149,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.MenuHighlight;
-            this.ClientSize = new System.Drawing.Size(1142, 755);
+            this.ClientSize = new System.Drawing.Size(1142, 749);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Name = "FormStocks";

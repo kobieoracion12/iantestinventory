@@ -176,7 +176,7 @@
             this.tbSales.Name = "tbSales";
             this.tbSales.Padding = new System.Drawing.Point(50, 3);
             this.tbSales.SelectedIndex = 0;
-            this.tbSales.Size = new System.Drawing.Size(1142, 681);
+            this.tbSales.Size = new System.Drawing.Size(1142, 675);
             this.tbSales.TabIndex = 0;
             this.tbSales.MouseClick += new System.Windows.Forms.MouseEventHandler(this.tbSales_MouseClick);
             // 
@@ -186,7 +186,7 @@
             this.tabPageInventory.Location = new System.Drawing.Point(4, 34);
             this.tabPageInventory.Name = "tabPageInventory";
             this.tabPageInventory.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPageInventory.Size = new System.Drawing.Size(1134, 643);
+            this.tabPageInventory.Size = new System.Drawing.Size(1134, 637);
             this.tabPageInventory.TabIndex = 0;
             this.tabPageInventory.Text = "Inventory";
             this.tabPageInventory.UseVisualStyleBackColor = true;
@@ -207,7 +207,7 @@
             this.listViewInventory.GridLines = true;
             this.listViewInventory.Location = new System.Drawing.Point(3, 3);
             this.listViewInventory.Name = "listViewInventory";
-            this.listViewInventory.Size = new System.Drawing.Size(1128, 637);
+            this.listViewInventory.Size = new System.Drawing.Size(1128, 631);
             this.listViewInventory.TabIndex = 0;
             this.listViewInventory.UseCompatibleStateImageBehavior = false;
             this.listViewInventory.View = System.Windows.Forms.View.Details;
@@ -660,7 +660,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.ClientSize = new System.Drawing.Size(1142, 755);
+            this.ClientSize = new System.Drawing.Size(1142, 749);
             this.Controls.Add(this.tbSales);
             this.Controls.Add(this.panel1);
             this.Name = "Inventory";

@@ -52,7 +52,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(289, 793);
+            this.panel1.Size = new System.Drawing.Size(289, 749);
             this.panel1.TabIndex = 0;
             // 
             // bunifuFlatButton4
@@ -223,14 +223,14 @@
             this.pnlSales.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnlSales.Location = new System.Drawing.Point(289, 0);
             this.pnlSales.Name = "pnlSales";
-            this.pnlSales.Size = new System.Drawing.Size(1158, 793);
+            this.pnlSales.Size = new System.Drawing.Size(1081, 749);
             this.pnlSales.TabIndex = 1;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1447, 793);
+            this.ClientSize = new System.Drawing.Size(1370, 749);
             this.Controls.Add(this.pnlSales);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";

@@ -19,9 +19,9 @@ namespace Ian_Inventory_Systeme.Forms
             Refresh();
             StartUp();
         }
-
+        // pede 
         // Database connection
-        MySqlConnection connection = new MySqlConnection("server=127.0.0.1;user id=ianinventory;persistsecurityinfo=True;database=iantestinventory; password='kobieoracion123';");
+        MySqlConnection connection = new MySqlConnection("server=127.0.0.1;user = Nefarry1;persistsecurityinfo=True;database=iantestinventory; password='aislife22';");
 
         private void StartUp()
         {
@@ -112,7 +112,7 @@ namespace Ian_Inventory_Systeme.Forms
             else
             {
                 // Database connection string
-                string constring = "server=127.0.0.1;user id=ianinventory;persistsecurityinfo=True;database=iantestinventory; password='kobieoracion123'";
+                string constring = "server=127.0.0.1;user = Nefarry1;persistsecurityinfo=True;database=iantestinventory; password='aislife22';";
                 // Database command string
                 string Query = "INSERT INTO datainventory (prodNo, prodItem, prodBrand, prodPrice, prodQuantity, prodDOA, prodEXPD) VALUES ('" + prodAddNo.Text + "','" + prodAddItem.Text + "', '" + prodAddBrand.Text + "', '" + prodAddPrice.Text + "', '" + prodAddQty.Text + "', '" + prodAddDOA.Text + "', '" + prodAddEXPD.Text + "')";
                 MySqlConnection conDataBase = new MySqlConnection(constring); // Create new connection
@@ -156,7 +156,7 @@ namespace Ian_Inventory_Systeme.Forms
                 {
                     string test = listViewInventory.SelectedItems[j].SubItems[1].Text;
                     // Database connection string
-                    string MyConnection2 = "server=127.0.0.1;user id=ianinventory;persistsecurityinfo=True;database=iantestinventory; password='kobieoracion123'";
+                    string MyConnection2 = "server=127.0.0.1;user = Nefarry1;persistsecurityinfo=True;database=iantestinventory; password='aislife22';";
                     // Database command string
                     string Query = "DELETE FROM datainventory where prodItem='" + test + "'";
                     MySqlConnection MyConn2 = new MySqlConnection(MyConnection2); // Create new connection
@@ -263,7 +263,7 @@ namespace Ian_Inventory_Systeme.Forms
                 MessageBox.Show(ex.Message);
             }
             */
-            using (MySqlConnection sqlConn = new MySqlConnection("server = 127.0.0.1; user id = ianinventory; persistsecurityinfo = True; database = iantestinventory; password = 'kobieoracion123'"))
+            using (MySqlConnection sqlConn = new MySqlConnection("server=127.0.0.1;user = Nefarry1;persistsecurityinfo=True;database=iantestinventory; password='aislife22';"))
             {
                 string query = "UPDATE datainventory SET prodNo = @No,prodItem = @Item,prodBrand = @Brand, prodPrice = @Price,prodQuantity = @Qty where prodNo = @No ";
                 MySqlCommand cmd = new MySqlCommand(query, sqlConn);
