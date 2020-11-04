@@ -1,2 +1,4 @@
 wot
-wot
+wot 
+
+send help
