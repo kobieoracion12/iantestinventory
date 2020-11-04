@@ -34,3 +34,6 @@ C:\Users\Kobie\documents\visual studio 2015\Projects\Ian Inventory Systeme\Ian I
 C:\Users\Kobie\documents\visual studio 2015\Projects\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\zxing.xml
 C:\Users\Kobie\documents\visual studio 2015\Projects\Ian Inventory Systeme\Ian Inventory Systeme\bin\Debug\zxing.presentation.xml
 C:\Users\Kobie\documents\visual studio 2015\Projects\Ian Inventory Systeme\Ian Inventory Systeme\obj\Debug\Ian_Inventory_Systeme.Forms.Inventory.resources
+C:\Users\Kobie\Documents\Visual Studio 2015\Projects\iantestinventory\Ian Inventory Systeme\bin\Debug\Ian Inventory Systeme.exe.config
+C:\Users\Kobie\Documents\Visual Studio 2015\Projects\iantestinventory\Ian Inventory Systeme\obj\Debug\Ian Inventory Systeme.exe
+C:\Users\Kobie\Documents\Visual Studio 2015\Projects\iantestinventory\Ian Inventory Systeme\obj\Debug\Ian Inventory Systeme.pdb
